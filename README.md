@@ -28,7 +28,7 @@ Our multi-agent system automates the entire analytics workflow:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│              Coordinator Agent (Orchestrator)            │
+│              Coordinator Agent (Orchestrator)           │
 │         - Manages workflow                              │
 │         - Delegates tasks to specialized agents         │
 │         - Maintains session state                       │
